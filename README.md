@@ -111,6 +111,3 @@ Ensure MongoDB is running locally or configure your MONGODB_URI appropriately.
 <img width="1440" height="813" alt="Image" src="https://github.com/user-attachments/assets/89ee08d8-aced-42af-9684-633b21c2f556" />
 
 
-<img width="1440" height="813" alt="Image" src="https://github.com/user-attachments/assets/fbc66070-bac4-4e49-850e-19634bfc5b17" />
-
-<img width="1440" height="813" alt="Image" src="https://github.com/user-attachments/assets/c74d451a-dcf7-4151-b6a1-73bf4d5e3b67" />
